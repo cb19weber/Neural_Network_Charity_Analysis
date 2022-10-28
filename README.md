@@ -25,3 +25,4 @@ One adjustment to the model I tried that I then reverted was attempting to expan
 I tried a few data preprocessing strategies with other features, but ultimately my models with numerous attempts topped out at around 71% accuracy.
 
 ## Results
+Overall, the results of my initial exploration into deep learning models have taught me that I have an incredible amount to learn. I am so curious about how the various activation functions and optimizers and other things might improve the accuracy of the models. I look forward to the years ahead of continuing to grow as I embark on this journey within data science, and look forward to all of the thrilling discoveries in front of me.
